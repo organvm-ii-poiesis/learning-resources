@@ -404,7 +404,7 @@ Learning Resources builds on and extends the pedagogical traditions established 
 | [metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master) | II | Performance SDK used in Tier 2-3 exercises |
 | [example-interactive-installation](https://github.com/organvm-ii-poiesis/example-interactive-installation) | II | Reference implementation for Tier 3 capstone |
 | [example-ai-collaboration](https://github.com/organvm-ii-poiesis/example-ai-collaboration) | II | AI-conductor methodology taught in Tier 2 |
-| [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine) | I | Theoretical foundations for recursion modules |
+| [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) | I | Theoretical foundations for recursion modules |
 | [public-process](https://github.com/organvm-v-logos/public-process) | V | Public writing exercises in Tier 3 capstone |
 
 ---
