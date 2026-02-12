@@ -6,7 +6,7 @@ curriculum modules with progress tracking and completion criteria.
 
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Any
 
